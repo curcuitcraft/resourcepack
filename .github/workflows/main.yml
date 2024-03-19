@@ -5,7 +5,7 @@ on:
 jobs:
   release:
     name: New resource pack version available!
-    runs-on: minecraft-1.20.1
+    runs-on: ubuntu-latest
     steps:
     - name: discord
       uses: sebastianpopp/discord-action@releases/v2
