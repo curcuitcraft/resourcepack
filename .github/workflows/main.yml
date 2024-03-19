@@ -11,4 +11,4 @@ jobs:
       uses: sebastianpopp/discord-action@releases/v2
       with:
         webhook: https://discord.com/api/webhooks/1219528976511275129/aad1UfdOnTdDqRFojewy2Rce81hfRJJA-WImagbQtG5uLBM-l5aOQtFBmx3-61oaaJ0t
-        message: "||@everyone|| The server resource pack has been updated. Please download the newest version here: https://github.com/itisphxjupiter/curcuitcraft-resources/releases"
+        message: "||@everyone|| The server resource pack has been updated. Please download the newest version here: https://github.com/itisphxjupiter/curcuitcraft-resources/releases/latest"
